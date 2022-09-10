@@ -1,0 +1,4 @@
+/.idea/
+/builds
+/tests/test.db
+database.db
